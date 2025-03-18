@@ -1,4 +1,5 @@
-I did it. I'm here.
+Hi, I'm Meio!
+🌱 I’m currently learning Kubernetes
 <!--
 **meio-v/meio-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
