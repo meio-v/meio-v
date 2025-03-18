@@ -1,8 +1,8 @@
-Hi, I'm Meio!
+# Hi, I'm Meio!  
 
-
-🌱 I’m currently learning Kubernetes
-🔭 I’m currently working on a major API with @Trunkrs
+🌱 I’m currently learning Kubernetes  
+🔭 I’m currently working on a major backend API with [@Trunkrs](https://github.com/Trunkrs)  
+💬 Ask me about clean code and domain-driven development (without being dogmatic!)
 <!--
 **meio-v/meio-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
