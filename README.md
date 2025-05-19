@@ -1,7 +1,7 @@
 # Hi, I'm Meio!  
 
-🌱 I’m currently learning Kubernetes  
-🔭 I’m currently working on a major backend API with [@Trunkrs](https://github.com/Trunkrs)  
+🌱 I’m currently learning Godot
+🔭 I'm currently dreaming up an indie action rpg project. 
 💬 Ask me about clean code and domain-driven development (without being dogmatic!)  
 📫 How to reach me:  
    - [LinkedIn](https://www.linkedin.com/in/meio/)  
