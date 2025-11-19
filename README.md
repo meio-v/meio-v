@@ -1,7 +1,7 @@
 # Hi, I'm Meio!  
 
-🌱 I’m currently learning Godot
-🔭 I'm currently dreaming up an indie action rpg project. 
+🌱 I’m currently learning - Self-Healing Deployments
+🔭 I'm currently looking for new opportunities
 💬 Ask me about clean code and domain-driven development (without being dogmatic!)  
 📫 How to reach me:  
    - [LinkedIn](https://www.linkedin.com/in/meio/)  
